@@ -35,3 +35,4 @@ This plot highlights whiich incident types produced the most harm.
 figures/fig3_distribution_records.png
 
 **My Insight:** Ransomware and data breaches result in the highest variability and maximum impact. 
+--
