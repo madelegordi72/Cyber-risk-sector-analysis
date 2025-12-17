@@ -4,7 +4,9 @@
 This project applies the exploratory data analysis techquies I leanred in my Computational Data Science courses (CDS) this semester at George Mason in R. I examine trends in CSV datasets that are tidy and cleaned. The goal is to display cybersecurity incidents by sector and demonstrate how data-driven analysis can inform my team on where threats populate.
 
 ## Skills Learned 
-
+- Visualization scripts
+- Tidying, mutating data to be clean
+- Extracting ethical insight 
 # Tools Used
 - RStudio
 - Github for practice datasets
@@ -31,8 +33,8 @@ This box plot compares breach severity across industry sectors.
 --
 
 ## Visualization 3: Impact by Incident Type
-This plot highlights whiich incident types produced the most harm. 
+This plot highlights which incident types produced the most harm. 
 ![Impact by Incident Type](figures/fig3_distribution_records.png)
 
-**My Insight:** Ransomware and data breaches result in the highest variability and maximum impact. 
+**My Insight:** Ransomware and data breaches result in the highest variability and maximum impact. How can I help lower that?
 --
